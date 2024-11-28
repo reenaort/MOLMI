@@ -1,0 +1,81 @@
+.errors,
+.mandat {
+    color: red;
+}
+
+.app-header {
+    background-color: #fff;
+    box-shadow: 0px 10px 30px 0px rgba(82, 63, 105, 0.05);
+}
+
+.dt-toolbar label {
+    padding-right: 10px !important;
+    font-size: 13px;
+}
+
+.filter-card {
+    display: none;
+}
+
+.btn-border-primary {
+    border: 1px solid #03599F !important;
+    color: #03599F;
+    background: transparent;
+}
+
+.btn-border-primary:hover {
+    color: #03599F;
+}
+
+.preview img {
+    max-width: 100%;
+}
+
+.border-radius-6px {
+    border-radius: 6px;
+}
+
+.logo-color {
+    color: #03599f;
+}
+
+.center-align {
+    margin: 0 auto;
+}
+
+.custom-cards {
+    margin-bottom: 20px;
+}
+
+.custom-cards .card-body {
+    padding: 0;
+    background: #f8fcff;
+    border-radius: 0 0 10px 10px;
+}
+
+.border-sep {
+    border-bottom: 1px dashed #03599f;
+}
+
+.c-header {
+    background: #03599F;
+    border-radius: 10px 10px 0px 0px;
+    height: 62px;
+}
+
+.c-header div span {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 250px;
+}
+
+.light-bg-color {
+    background: #f8fcff;
+}
+
+.logo-color {
+    color: #03599f;
+}
